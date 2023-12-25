@@ -1,1 +1,1 @@
-Data-225 Assignment on Snowflake
+Data-225 Assignment on Snowflake.
